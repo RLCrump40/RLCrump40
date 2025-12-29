@@ -1,15 +1,14 @@
 <h1>Hello, my name is Raiques, a <a href="https://linkedin.com/in/rlcrump40">Security Professional<h1>
 
-<h2> Information Technology Projects:</h2>
 
+<h2> IT Projects:</h2>
 
-- <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/RLCrump40/configure-ad)
   - [Virtual Machine Creation and Log Analysis](https://github.com/joshmadakorcc/azure-network-protocols)
  
 <h2> Cybersecurity Projects: In Progress </h2>
 
-- <b>Microsoft Azure</b>
+
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/RLCrump40/configure-ad)
   - [Virtual Machine Creation and Log Analysis](https://github.com/joshmadakorcc/azure-network-protocols)
 
@@ -22,6 +21,6 @@
 
 
 
-[linkedin]: https://www.linkedin.com/in/rlcrump40/
+[linkedin]: https://www.linkedin.com/in/raiqueslcrump/
 
 
