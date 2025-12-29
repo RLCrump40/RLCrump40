@@ -5,11 +5,14 @@
 
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/RLCrump40/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Virtual Machine Creation and Log Analysis](https://github.com/joshmadakorcc/azure-network-protocols)
  
 <h2> Cybersecurity Projects: In Progress </h2>
 
-<h2> Python Projects: In Progress </h2>
+- <b>Microsoft Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/RLCrump40/configure-ad)
+  - [Virtual Machine Creation and Log Analysis](https://github.com/joshmadakorcc/azure-network-protocols)
+
 
 
 <h2>Connect with me:</h2>
