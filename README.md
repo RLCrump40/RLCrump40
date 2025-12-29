@@ -1,4 +1,4 @@
-<h1>Hello, my name is Raiques, an <a href="https://linkedin.com/in/rlcrump40">IT Professional<h1>
+<h1>Hello, my name is Raiques, a <a href="https://linkedin.com/in/rlcrump40">Security Professional<h1>
 
 <h2> Information Technology Projects:</h2>
 
