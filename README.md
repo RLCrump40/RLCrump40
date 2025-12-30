@@ -4,7 +4,7 @@
 <h2> :computer: IT Projects:</h2>
 
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/RLCrump40/configure-ad)
-  - [Windows Virtual Machine Creation and Log Analysis](https://github.com/RLCrump40/configure-ad)
+  - [Windows Virtual Machine Creation and Log Analysis](https://github.com/RLCrump40/Log-Analysis-of-Virtual-Machine-Azure-and-Defender-for-Endpoint-)
  
 <h2>  :closed_lock_with_key: Security Projects: </h2>
 
