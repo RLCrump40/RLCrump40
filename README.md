@@ -1,4 +1,4 @@
-<h1> Hey there i'm Raiques! Welcome! :sunny: <h1>
+<h1> Hey there, i'm Raiques! Welcome! :sunny: <h1>
 
 
 <h2> :computer: IT Projects:</h2>
