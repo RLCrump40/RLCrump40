@@ -1,4 +1,4 @@
-<h1>Hello, i'm Raiques! Welcome!<h1>
+<h1> Hey there i'm Raiques! Welcome! :sunny: <h1>
 
 
 <h2> :computer: IT Projects:</h2>
@@ -6,7 +6,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/RLCrump40/configure-ad)
   - [Windows Virtual Machine Creation and Log Analysis](https://github.com/RLCrump40/configure-ad)
  
-<h2>  :lock: Security Projects: </h2>
+<h2>  :closed_lock_with_key: Security Projects: </h2>
 
 
   - [Vulnerability Management Scenario Following Vulnerability Management Lifecycle](https://github.com/RLCrump40/configure-ad)
