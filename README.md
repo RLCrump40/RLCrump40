@@ -4,13 +4,13 @@
 <h2> IT Projects:</h2>
 
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/RLCrump40/configure-ad)
-  - [Virtual Machine Creation and Log Analysis](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Windows Virtual Machine Creation and Log Analysis](https://github.com/RLCrump40/configure-ad)
  
-<h2> Cybersecurity Projects: In Progress </h2>
+<h2> Security Projects: In Progress </h2>
 
 
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/RLCrump40/configure-ad)
-  - [Virtual Machine Creation and Log Analysis](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Vulnerability Management Scenario Following Vulnerability Management Lifecycle](https://github.com/RLCrump40/configure-ad)
+  - [Virtual Machine Creation and Log Analysis](https://github.com/RLCrump40/configure-ad)
 
 
 
