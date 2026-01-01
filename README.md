@@ -3,14 +3,14 @@
 
 <h2> :computer: IT Projects:</h2>
 
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/RLCrump40/configure-ad)
-  - [Windows Virtual Machine Creation and Log Analysis](https://github.com/RLCrump40/Log-Analysis-of-Virtual-Machine-Azure-and-Defender-for-Endpoint-)
+  - [Network Traffic Analysis using Azure and Wireshark](https://github.com/RLCrump40)
+  - [Azure Virtual Machine Creation and Log Analysis using Defender for Endpoint](https://github.com/RLCrump40/Log-Analysis-of-Virtual-Machine-Azure-and-Defender-for-Endpoint-)
  
 <h2>  :closed_lock_with_key: Security Projects: </h2>
 
 
-  - [Vulnerability Management Scenario Following Vulnerability Management Lifecycle](https://github.com/RLCrump40/configure-ad)
-  - [In Progress](https://github.com/RLCrump40/configure-ad)
+  - [Vulnerability Management Scenario Following Vulnerability Management Lifecycle](https://github.com/RLCrump40)
+  - [In Progress](https://github.com/RLCrump40)
 
 
 
