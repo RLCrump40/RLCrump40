@@ -9,7 +9,7 @@
 <h2>  :closed_lock_with_key: Security Projects: </h2>
 
 
-  - [Vulnerability Management Scenario Following Vulnerability Management Lifecycle](https://github.com/RLCrump40)
+  - [In Progress: Vulnerability Management Scenario Following Vulnerability Management Lifecycle](https://github.com/RLCrump40)
   - [In Progress](https://github.com/RLCrump40)
 
 
