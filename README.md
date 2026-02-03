@@ -4,7 +4,7 @@
 
   - [Network Traffic Analysis using Azure and Wireshark](https://github.com/RLCrump40/networktrafficanalysis-azure-wireshark)
   - [Azure Virtual Machine Creation and Log Analysis using Defender for Endpoint](https://github.com/RLCrump40/Log-Analysis-of-Virtual-Machine-Azure-and-Defender-for-Endpoint-)
-  - [In Progress: Configure On-premises Active Directory using Azure VM's](https://github.com/RLCrump40)
+  - [Configure On-premises Active Directory using Azure VM's](https://github.com/RLCrump40/Onprem-AD-Azure)
 
 
 
