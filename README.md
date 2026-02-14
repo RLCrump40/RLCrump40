@@ -1,6 +1,6 @@
 <h1> Hey there, i'm Raiques! Welcome! :sunny: <h1>
 
- <h2> :computer: IT and ☁️ Cloud Projects:</h2>
+ <h2> :computer: Cloud Projects:</h2>
 
   - [Network Traffic Analysis using Azure and Wireshark](https://github.com/RLCrump40/networktrafficanalysis-azure-wireshark)
   - [Azure Virtual Machine Creation and Log Analysis using Defender for Endpoint](https://github.com/RLCrump40/Log-Analysis-of-Virtual-Machine-Azure-and-Defender-for-Endpoint-)
