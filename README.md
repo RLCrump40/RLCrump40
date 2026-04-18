@@ -14,7 +14,7 @@
 
 
 
-[<img width="50" height="150" alt="LI-In-Bug" src="https://github.com/user-attachments/assets/f03124f3-1ac8-471a-be1d-ad46f5f1efaa" />][linkedin]
+[<img width="50" height="50" alt="LI-In-Bug" src="https://github.com/user-attachments/assets/f03124f3-1ac8-471a-be1d-ad46f5f1efaa" />][linkedin]
 
 
 
