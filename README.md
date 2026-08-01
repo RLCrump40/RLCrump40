@@ -1,7 +1,8 @@
 <h1> Hey there, i'm Raiques! Welcome! :sunny: <h1>
 
  <h2> :computer: Security Projects:</h2>
- - [Azure Virtual Machine Creation and Log Analysis using Defender for Endpoint](https://github.com/RLCrump40/Log-Analysis-of-Virtual-Machine-Azure-and-Defender-for-Endpoint)
+ 
+- [Azure Virtual Machine Creation and Log Analysis using Defender for Endpoint](https://github.com/RLCrump40/loganalysis-azure-vm-mde-kql)
  
 
  <h2> :computer: IT Projects:</h2>
